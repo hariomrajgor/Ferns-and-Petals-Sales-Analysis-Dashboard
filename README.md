@@ -12,7 +12,7 @@ This project focuses on analyzing FNP’s sales dataset and visualizing the key 
 
 The data for this project is sourced from the Kaggle dataset:
 
-- **Dataset Link:** [Ferns and Petals](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+- **Dataset Link:** [Ferns and Petals](https://www.kaggle.com/datasets/shahzarkhanlavi/ferns-and-petals-sales-dataset)
 
 ## 🎯 Objectives
 The main goal of this project is to uncover insights from sales data and address the following key business questions:
