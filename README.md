@@ -19,7 +19,7 @@ The main goal of this project is to uncover insights from sales data and address
 
 1. **Total Revenue:** Identify the overall revenue generated.  
 2. **Average Order & Delivery Time:** Evaluate the time taken from order placement to delivery.  
-3. **Monthly Sales Performance:** Examine how sales fluctuate across different months of 2023.  
+3. **Monthly Sales Performance:** Examine how sales fluctuate across different months of 2024.  
 4. **Top Products by Revenue:** Determine which products generate the highest revenue.  
 5. **Customer Spending Analysis:** Understand the average spending per customer.  
 6. **Sales Performance of Top 5 Products:** Track and compare sales performance among the top products.  
